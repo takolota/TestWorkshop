@@ -1,2 +1,2 @@
 # TestWorkshop
-Hello!!! I'm Tyler. Welcome to the test workshop.
+Hello!!! I'm Tyler Kolota. Welcome to the test workshop.
