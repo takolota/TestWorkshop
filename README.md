@@ -1,2 +1,2 @@
 # TestWorkshop
-Hello!!! I'm bob! Welcome to the test workshop.
+Hello!!! I'm a conflict!!! Welcome to the test workshop.
